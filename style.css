@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(155, 218, 255);
+}
+#header{
+    background-color:rgb(109, 255, 109);
+    padding: 8px;
+}
+#Development{
+    background-color: rgb(208, 255, 138);
+    padding: 8px;
+    bottom: 0 ;
+    position:fixed;
+    width: 100%;
+}
+#startButton{
+    width:15%;
+    height: 5%;
+}
